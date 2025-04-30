@@ -1,0 +1,15 @@
+potential bugs or usability issues in the login page:
+
+1.Search issue :
+user able to search field with EMPID value using EMPName field
+
+2.Error message is not consistent:
+Enable toggle-> create login details -> Give same user name -> throws error message -> keep the same user -> disable and enable toggle -> shows no message
+
+3.Incorrect error message:
+Passwords do not match - message is incorrect when user didn't enter and click on save while changing password
+
+4.Show password icon is missing:
+Enter some password-> click on some where in the screen -> go to password textbox-> show password icon is not showing 
+
+5.Validation missing on same users.
